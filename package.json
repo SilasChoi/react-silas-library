@@ -1,10 +1,10 @@
 {
-  "name": "react-library",
+  "name": "react-silas-library",
   "version": "1.0.0",
   "description": "ui library",
-  "author": "silas",
+  "author": "SilasChoi",
   "license": "MIT",
-  "repository": "silas/react-library",
+  "repository": "SilasChoi/react-silas-library",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",

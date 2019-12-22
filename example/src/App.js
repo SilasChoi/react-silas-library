@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 
-import { ExampleComponent } from 'react-library'
+import { ExampleComponent } from 'react-silas-library'
 
-import { Button } from 'react-library'
+import { Button } from 'react-silas-library'
 
 export default class App extends Component {
   render () {
